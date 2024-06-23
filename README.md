@@ -1,2 +1,2 @@
-# Data Science Blogs from manuelsolan-o
+# manuelsolan-o's Data Science Blogs
 
