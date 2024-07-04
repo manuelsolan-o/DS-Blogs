@@ -1,1 +1,2 @@
-# DS-Blogs
+# manuelsolan-o's Data Science Blogs
+
